@@ -32,7 +32,7 @@
 		</repository>
 		<snapshotRepository>
 			<id>nexus</id>
-			<url>http://3.95.136.40:8081/repository/release-student/</url>
+			<url>http://3.95.136.40:8081/repository/snap-student/</url>
 		</snapshotRepository>
     </distributionManagement>
 
